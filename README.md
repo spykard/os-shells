@@ -1,2 +1,3 @@
-# os-shells
-Linux Shell Scripting
+# Operating System Shell Scripting
+
+Shell scripting for Linux Processes implementing Process Synchronization.
